@@ -1,4 +1,4 @@
-# Canal-Street-Market-website
+# Canal Street Market website project
 A frontend project I did found on [Frontendpractice.com](https://www.frontendpractice.com/) to practice. Based off the [Canal Street Market](https://canalstreet.market/) website listed.
 
 ## Finished product
