@@ -95,9 +95,7 @@ a {
 
   transition: flex 1000ms ease-in-out;
 }
-.nav__col:hover {
-  flex-grow: 1;
-}
+
 .header a .nav__col:hover {
   left: 0;
 }
